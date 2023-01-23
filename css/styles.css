@@ -1,0 +1,155 @@
+#title {
+  background-color: #ff4c68;
+}
+.with{
+font-family: 'Montserrat', black 900;
+  font-size: 3rem;
+  height: 1.5;
+  margin-left: 0px;
+  color: white;
+  padding: 4.5rem;
+  text-align: center;
+}
+body{
+text-align: center;
+}
+h1 h2 h3 h4 h5 h6 {
+    font-family: 'Montserrat',black 900;
+}
+h1{
+
+}
+h2{
+
+
+}
+h3{
+  font-family: 'Montserrat',extrabold 800;
+
+
+}
+p{
+  color: #8f8f8f;
+}
+.download-button{
+  color: white;
+}
+.navbar-brand
+{padding-left: 20px;}
+
+.contianer-fluid{
+  padding: 3% 10% 7%;
+}
+
+.button{
+  padding: 3% 40%;
+}
+.navbar{
+  padding-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  font-weight: bold;
+  font-size: 3rem;
+    padding-bottom: 4.5rem;
+
+}
+.nav-item{
+   padding: 0 18px;
+
+
+}
+ .download-button{
+   margin: 20 30;
+ }
+.title-image {
+  width: 23%;
+  transform: rotate(20deg);
+  position: absolute;
+  right: 310px;
+}
+
+#features{
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1
+
+}
+.feature-box{
+    text-align: center;
+    padding: 5%
+}
+.icon{
+  color: orange;
+  margin:3%;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials {
+  padding: 3% 2%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.carusel-item{
+padding: 7% 15%;
+}
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-bottom: 3%
+}
+.press-logo{
+  width: 12%;
+  margin: 15px 20px;
+}
+
+/* pricing section*/
+.price-text{
+    font-size: 3rem;
+}
+#pricing{
+  padding: 100px;
+  text-align: center;
+}
+.pricing-column{
+  padding: 3% 2%
+}
+@media (max-width: 990px) {
+  #title {
+    text-align: center;
+  }
+  .title-image {
+position: static;
+transform: rotate(0);
+padding-top: 40px;
+
+  }
+}
+.dl{
+  margin-top: 30px;
+}
+#cta{
+  background-color: #ff4c68;
+  text-align: center;
+  font-family: 'Montserrat',extrabold 800;
+
+  color: #fff;
+  padding: 8% 10%;
+}
+
+#footer{
+  background-color: #fff;
+  text-align: center;
+    padding: 5% 10%;
+}
+.sa{
+  padding: 0 6px;
+}
